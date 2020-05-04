@@ -2,14 +2,14 @@
 
 <channels>
 <channel>
-<name>FILMES</name>
-<thumbnail>https://ia601407.us.archive.org/17/items/lancamentos_202005/Filmes.png</thumbnail>
+<name>SEJAM BENVINDOS</name>
+<thumbnail>https://ia601509.us.archive.org/3/items/entrar_202005/Benvindo.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601509.us.archive.org/3/items/entrar_202005/fanart.jpg</fanart>
 <info>
 
 
-[COLOR yellow]|[/COLOR] - OS MELHORES FILMES - [COLOR yellow]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR] - SUIZE ADDON - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -17,14 +17,14 @@
 
 <channels>
 <channel>
-<name>SERIES</name>
-<thumbnail>https://ia601407.us.archive.org/17/items/lancamentos_202005/Series.png</thumbnail>
-<externallink>https://</externallink>
+<name>ENTRE AQUI</name>
+<thumbnail>https://ia601509.us.archive.org/3/items/entrar_202005/entrar.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/alefcouto/ADDONSUIZE/master/CATEGORIAS</externallink>
 <fanart>https://ia601509.us.archive.org/3/items/entrar_202005/fanart.jpg</fanart>
 <info>
 
 
-[COLOR yellow]|[/COLOR] - AS MELHORES SERIES - [COLOR yellow]|[/COLOR]</info>
+[COLOR white]|[/COLOR] - ENTRETERIMENTO GARANTIDO - [COLOR white]|[/COLOR]</info>
 </channel>
 </channels>
 
