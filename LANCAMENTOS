@@ -51,10 +51,11 @@ Jeff Fowler</info>
 </item>
 
 <item>
-<title>Nome do Filme</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>CAPITÃ MARVEL</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Zi4GcLlnPwlnWiOmtL1HkDi2czK9uEhj/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVgLHgnsO46oSHJy5I4ekhqtoYv.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/urayLM8G7G21VR2RuVzPpC7NavS.jpg</fanart>
+<info>Capitã Marvel, parte do exército de elite dos Kree, uma raça alienígena, encontra-se no meio de uma batalha entre seu povo e os Skrulls. Ao tentar impedir uma invasão de larga escala na Terra, em 1995, ela tem memórias recorrentes de uma outra vida, como Carol Danvers, agente da Força Aérea norte-americana. Com a ajuda de Nick Fury, Capitã Marvel precisa descobrir os segredos de seu passado e pôr um fim ao conflito intergalático com os Skrulls.</info>
 </item>
 
 <item>
@@ -75,18 +76,19 @@ Jeff Fowler</info>
 
 <item>
 <title>TERREMOTO</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1JfTqhOEb8G1clfZH2QbAgP_dwrABh83Q/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2l6PZx37xiREeke33ED0JFGXI9e.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/oqBTd53lYKJ63vbQpAxjDS6Pxvt.jpg</fanart>
 <info>Em 1904, um terremoto de magnitude 5,4 na escala Richter sacudiu Oslo. Seu epicentro foi no "Oslo Graben", uma fenda que atravessa diretamente a cidade. Desde então, a população da capital norueguesa pode esperar futuros terremotos na área.</info>
 </item>
 
 <item>
-<title>Nome do Filme</title>
+<title>ESCOLHA O PRÓXIMO FILME, NÍCOLAS!</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+
 
 
 
